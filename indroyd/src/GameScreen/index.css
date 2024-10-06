@@ -1,0 +1,29 @@
+/* GameScreen.css */
+
+.game-screen {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .question {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .qr-code {
+    margin-top: 20px;
+    padding: 10px;
+    display: inline-block;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .winner {
+    font-size: 22px;
+    color: green;
+    margin-bottom: 20px;
+  }
+  
